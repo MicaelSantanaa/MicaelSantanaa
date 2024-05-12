@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Sou estudante de Mobile<br>📚 Estudando Flutter<br>🤝 Estou a procura de Estágio
+👨🏻‍💻 Sou estudante de Backend<br>📚 Estudando Java e Spring<br>🤝 Estou a procura de Oportunidades de trabalho
 
 
 ## 🌐 Socials:
